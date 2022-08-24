@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 12000,
+      "createdAt": "2022-08-23T18:58:22.567Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 60,
+      "createdAt": "2022-08-23T18:22:22.567Z"
+    },
+    {
+      "description": "Mercado",
+      "price": 300,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2022-08-24T16:48:55.949Z",
+      "id": 3
+    },
+    {
+      "description": "Ajustes de Layout",
+      "price": 500,
+      "category": "Ajustes",
+      "type": "income",
+      "createdAt": "2022-08-24T17:01:11.093Z",
+      "id": 4
+    },
+    {
+      "description": "Açaí",
+      "price": 15,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2022-08-24T17:04:47.992Z",
+      "id": 5
+    }
+  ]
+}
